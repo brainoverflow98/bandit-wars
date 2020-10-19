@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5a8650d79a2aecf44a0c89dda7f5a192
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CurrentTile: {instanceID: 0}
+  - TargetTile: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - GUILabel: {instanceID: 0}
+  - focusCamera: {instanceID: 0}
+  - hitEffect: {instanceID: 0}
+  - dieEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
